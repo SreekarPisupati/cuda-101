@@ -1,0 +1,14 @@
+# CUDA / MSVC build artifacts (generated locally, never commit)
+*.exe
+*.lib
+*.exp
+*.obj
+*.o
+*.pdb
+
+# Local build tooling (machine-specific paths, not part of source)
+build.ps1
+run.ps1
+
+# Personal reference notes (local only)
+references(not_to_be_pushed)/
